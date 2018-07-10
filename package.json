@@ -14,6 +14,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "bcrypt": "^3.0.0",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
     "eslint-plugin-node": "^6.0.1",
